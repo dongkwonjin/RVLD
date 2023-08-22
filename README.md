@@ -18,8 +18,7 @@ A new dataset called **"OpenLane-V"** will be available as soon as possible.
 
 
 ### Video
-<a href="https://www.youtube.com/watch?v=Z0FaOqVrN5w" target="_blank"><img src="https://img.youtube.com/vi/Z0FaOqVrN5w/0.jpg" alt="Video" width="30%" height="20%" /></a> <br><br>
-<a href="https://www.youtube.com/watch?v=rTeyZDXBW1I" target="_blank"><img src="https://img.youtube.com/vi/rTeyZDXBW1I/0.jpg" alt="Video" width="30%" height="20%" /></a>
+<a href="https://www.youtube.com/watch?v=Z0FaOqVrN5w" target="_blank"><img src="https://img.youtube.com/vi/Z0FaOqVrN5w/0.jpg" alt="Video" width="30%" height="20%" /></a>     <a href="https://www.youtube.com/watch?v=rTeyZDXBW1I" target="_blank"><img src="https://img.youtube.com/vi/rTeyZDXBW1I/0.jpg" alt="Video" width="30%" height="20%" /></a>
 
 
 ### Requirements
