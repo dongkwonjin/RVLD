@@ -55,7 +55,7 @@ Pytorch can be installed on [here](https://pytorch.org/get-started/previous-vers
 ### Directory structure
     .                           # ROOT
     ├── Preprocessing           # directory for data preprocessing
-    │   ├── VIL-100              # dataset name (VIL-100, OpenLane-V)
+    │   ├── VIL-100             # dataset name (VIL-100, OpenLane-V)
     |   |   ├── P00             # preprocessing step 1
     |   |   |   ├── code
     |   |   ├── P01             # preprocessing step 2
@@ -63,7 +63,7 @@ Pytorch can be installed on [here](https://pytorch.org/get-started/previous-vers
     |   │   └── ...
     │   └── ...                 # etc.
     ├── Modeling                # directory for modeling
-    │   ├── VIL-100              # dataset name (VIL-100, OpenLane-V)
+    │   ├── VIL-100             # dataset name (VIL-100, OpenLane-V)
     |   |   ├── code
     │   ├── OpenLane-V           
     |   |   ├── code
@@ -73,7 +73,7 @@ Pytorch can be installed on [here](https://pytorch.org/get-started/previous-vers
     │   ├── OpenLane-V            
     │   └── ...                 # etc.
     ├── preprocessed            # preprocessed data
-    │   ├── VIL-100              # dataset name (VIL-100, OpenLane-V)
+    │   ├── VIL-100             # dataset name (VIL-100, OpenLane-V)
     |   |   ├── P00             
     |   |   |   ├── output
     |   |   ├── P02             
@@ -81,7 +81,12 @@ Pytorch can be installed on [here](https://pytorch.org/get-started/previous-vers
     |   │   └── ...
     │   └── ...
     .
-
+    ├── OpenLane
+    │   ├── images
+    │   ├── lane3d_1000         # We do not use this directory
+    │   ├── OpenLane-V
+    |   |   ├── label           # lane labels formatted into pickle files
+    |   |   ├── list            # training/test video datalists
 ### Evaluation (for VIL-100)
 To test on VIL-100, you need to install official CULane evaluation tools. The official metric implementation is available [here](https://github.com/yujun0-0/MMA-Net/blob/main/INSTALL.md). Please downloads the tools into `ROOT/Modeling/VIL-100/MODEL_NAME/code/evaluation/culane/`. Then, you compile the evaluation tools. We recommend to see an [installation guideline](https://github.com/yujun0-0/MMA-Net/blob/main/INSTALL.md).
 ```
