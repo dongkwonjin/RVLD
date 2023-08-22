@@ -30,7 +30,7 @@ A new dataset called **"OpenLane-V"** will be available as soon as possible.
 $ git clone https://github.com/dongkwonjin/RVLD.git
 ```
 
-2. Download [pre-trained model](https://drive.google.com/file/d/1rXck6jMQzsqIn_r3oOjLrPlUyYp8bXjN/view?usp=sharing) parameters and [preprocessed data](https://drive.google.com/file/d/1a7VtFmuLWBx1TaW7zkQg78wOjAxeWmJ9/view?usp=sharing) in `ROOT`:
+2. Download [pre-trained model](https://drive.google.com/file/d/1PjbN2uQ-7DgFJjApH1vRx81vEo_Tvn-9/view?usp=sharing) parameters and [preprocessed data](https://drive.google.com/file/d/14JI2BIwJ677_rCBLGQiHvl6IF-n0LIwH/view?usp=sharing) in `ROOT`:
 ```
 $ cd ROOT
 $ unzip pretrained.zip
