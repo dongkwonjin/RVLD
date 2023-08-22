@@ -81,9 +81,9 @@ Pytorch can be installed on [here](https://pytorch.org/get-started/previous-vers
     |   │   └── ...
     │   └── ...
     .
-    .                           # dataset_dir
-    ├── OpenLane
-    │   ├── images
+    .                           
+    ├── OpenLane                # dataset_dir
+    │   ├── images              # Original images
     │   ├── lane3d_1000         # We do not use this directory
     │   ├── OpenLane-V
     |   |   ├── label           # lane labels formatted into pickle files
