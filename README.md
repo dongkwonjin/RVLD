@@ -2,7 +2,7 @@
 
 ### Dongkwon Jin, Dahyun Kim, and Chang-Su Kim
 
-<img src="https://github.com/dongkwonjin/RVLD/blob/main/Overview.PNG" alt="overview" width="90%" height="90%" border="10"/>
+<img src="https://github.com/dongkwonjin/RVLD/blob/main/Overview.PNG" alt="overview" width="50%" height="50%" border="10"/>
 
 
 Official implementation for **"Recursive Video Lane Detection"** 
