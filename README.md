@@ -2,9 +2,6 @@
 
 ### Dongkwon Jin, Dahyun Kim, and Chang-Su Kim
 
-<br/><br/>
-<img src="https://github.com/dongkwonjin/RVLD/blob/main/Overview.PNG" alt="overview" width="50%" height="50%" border="20"/>
-<br/><br/>
 
 Official implementation for **"Recursive Video Lane Detection"** [[supp]](https://drive.google.com/file/d/1Lz9hWGL12Rm_KHsN3roCkwhh2FvbrREJ/view?usp=sharing) [[video1]](https://youtu.be/Z0FaOqVrN5w) [[video2]](https://youtu.be/rTeyZDXBW1I)
 
@@ -13,6 +10,11 @@ Official implementation for **"Recursive Video Lane Detection"** [[supp]](https:
 -->
 
 A new dataset called **"OpenLane-V"** will be available as soon as possible.
+
+
+<br/><br/>
+<img src="https://github.com/dongkwonjin/RVLD/blob/main/Overview.PNG" alt="overview" width="50%" height="50%" border="20"/>
+<br/><br/>
 
 <!--
 ### Video
