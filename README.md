@@ -82,7 +82,7 @@ Pytorch can be installed on [here](https://pytorch.org/get-started/previous-vers
     │   └── ...
     .
     .                           
-    ├── OpenLane                # dataset_dir
+    ├── OpenLane                # dataset directory
     │   ├── images              # Original images
     │   ├── lane3d_1000         # We do not use this directory
     │   ├── OpenLane-V
