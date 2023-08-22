@@ -12,9 +12,9 @@ Official implementation for **"Recursive Video Lane Detection"** [[arxiv]](https
 A new dataset called **"OpenLane-V"** will be available as soon as possible.
 
 
-<br/><br/>
+<br/>
 <img src="https://github.com/dongkwonjin/RVLD/blob/main/Overview.PNG" alt="overview" width="50%" height="50%" border="20"/>
-<br/><br/>
+<br/>
 
 
 ### Video
