@@ -5,7 +5,7 @@
 <img src="https://github.com/dongkwonjin/RVLD/blob/main/Overview.PNG" alt="overview" width="50%" height="50%" border="20"/>
 
 
-Official implementation for **"Recursive Video Lane Detection"** [[video1]](https://youtu.be/Z0FaOqVrN5w) [[video2]](https://youtu.be/rTeyZDXBW1I)
+Official implementation for **"Recursive Video Lane Detection"** [[supp]](https://drive.google.com/file/d/1Lz9hWGL12Rm_KHsN3roCkwhh2FvbrREJ/view?usp=sharing) [[video1]](https://youtu.be/Z0FaOqVrN5w) [[video2]](https://youtu.be/rTeyZDXBW1I)
 
 <!--
 [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Jin_Harmonious_Semantic_Line_Detection_via_Maximal_Weight_Clique_Selection_CVPR_2021_paper.pdf) [[supp]](http://mcl.korea.ac.kr/~dkjin/cvpr2021/04585-supp.pdf) [[video]](https://www.youtube.com/watch?v=CFQ168_6jw8).
