@@ -16,10 +16,10 @@ A new dataset called **"OpenLane-V"** will be available as soon as possible.
 <img src="https://github.com/dongkwonjin/RVLD/blob/main/Overview.PNG" alt="overview" width="50%" height="50%" border="20"/>
 <br/><br/>
 
-<!--
+
 ### Video
-<a href="https://www.youtube.com/watch?v=XhEj3o3iihQ" target="_blank"><img src="https://img.youtube.com/vi/XhEj3o3iihQ/0.jpg" alt="Video" width="30%" height="30%" /></a>
--->
+<a href="https://youtu.be/Z0FaOqVrN5w" target="_blank"><img src="https://youtu.be/Z0FaOqVrN5w/0.jpg" alt="Video" width="30%" height="30%" /></a>
+
 
 ### Requirements
 - PyTorch >= 1.10
