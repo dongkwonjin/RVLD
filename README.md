@@ -64,9 +64,9 @@ Pytorch can be installed on [here](https://pytorch.org/get-started/previous-vers
     │   └── ...                 # etc.
     ├── Modeling                # directory for modeling
     │   ├── VIL-100             # dataset name (VIL-100, OpenLane-V)
-    |   |   ├── ILD_seg         # a part of ILD for predicting binary segmentation maps
+    |   |   ├── ILD_seg         # a part of ILD for predicting lane probability maps
     |   |   |   ├── code
-    |   |   ├── ILD_coeff       # a part of ILD for predicting coefficient maps
+    |   |   ├── ILD_coeff       # a part of ILD for predicting lane coefficient maps
     |   |   |   ├── code
     |   |   ├── PLD             # PLD
     |   |   |   ├── code
