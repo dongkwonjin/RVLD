@@ -7,7 +7,7 @@
 
 Official implementation for **"Recursive Video Lane Detection"** 
 
-[[video]](https://youtu.be/rTeyZDXBW1I)
+[[video1]](https://youtu.be/Z0FaOqVrN5w) [[video2]](https://youtu.be/rTeyZDXBW1I)
 
 <!--
 [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Jin_Harmonious_Semantic_Line_Detection_via_Maximal_Weight_Clique_Selection_CVPR_2021_paper.pdf) [[supp]](http://mcl.korea.ac.kr/~dkjin/cvpr2021/04585-supp.pdf) [[video]](https://www.youtube.com/watch?v=CFQ168_6jw8).
