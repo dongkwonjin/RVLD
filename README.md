@@ -13,7 +13,7 @@ A new dataset called **"OpenLane-V"** will be available as soon as possible.
 
 
 
-<img src="https://github.com/dongkwonjin/RVLD/blob/main/Overview.PNG" alt="overview" width="80%" height="80%" border="0"/>
+<img src="https://github.com/dongkwonjin/RVLD/blob/main/Overview.PNG" alt="overview" width="50%" height="50%" border="0"/>
 
 
 
