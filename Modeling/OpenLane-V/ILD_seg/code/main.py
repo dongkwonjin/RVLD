@@ -30,7 +30,7 @@ def main_train(cfg, dict_DB):
 def main():
     # Config
     cfg = Config()
-    cfg = parse_args_default(cfg)
+    cfg = parse_args(cfg)
 
     os.environ["CUDA_VISIBLE_DEVICES"] = cfg.gpu_id
     torch.backends.cudnn.deterministic = True
