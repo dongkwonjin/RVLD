@@ -169,6 +169,8 @@ class Train_Process(object):
 
             if self.batch_iteration % self.cfg.iteration['validation'] == 0 and self.epoch >= self.cfg.epoch_update1:
                 self.test()
+                self.model.train()
+                self.finetune_model()
 
             self.scheduler.step(self.batch_iteration)
 
