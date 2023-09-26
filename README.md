@@ -94,6 +94,11 @@ Download [OpenLane-V](https://drive.google.com/file/d/1Jf7g1EG2oL9uVi9a1Fk80Iqtd
     │   ├── OpenLane-V
     |   |   ├── label           # lane labels formatted into pickle files
     |   |   ├── list            # training/test video datalists
+    ├── VIL-100
+    │   ├── JPEGImages              # Original images
+    │   ├── Annotations             # We do not use this directory
+    |   └── ...
+    
 ### Evaluation (for VIL-100)
 To test on VIL-100, you need to install official CULane evaluation tools. The official metric implementation is available [here](https://github.com/yujun0-0/MMA-Net/blob/main/INSTALL.md). Please downloads the tools into `ROOT/Modeling/VIL-100/MODEL_NAME/code/evaluation/culane/`. Then, you compile the evaluation tools. We recommend to see an [installation guideline](https://github.com/yujun0-0/MMA-Net/blob/main/INSTALL.md).
 ```
