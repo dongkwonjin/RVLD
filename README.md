@@ -95,8 +95,8 @@ Download [OpenLane-V](https://drive.google.com/file/d/1Jf7g1EG2oL9uVi9a1Fk80Iqtd
     |   |   ├── label           # lane labels formatted into pickle files
     |   |   ├── list            # training/test video datalists
     ├── VIL-100
-    │   ├── JPEGImages              # Original images
-    │   ├── Annotations             # We do not use this directory
+    │   ├── JPEGImages          # Original images
+    │   ├── Annotations         # We do not use this directory
     |   └── ...
     
 ### Evaluation (for VIL-100)
