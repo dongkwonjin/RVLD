@@ -3,7 +3,7 @@
 ### Dongkwon Jin, Dahyun Kim, and Chang-Su Kim
 
 
-Official implementation for **"Recursive Video Lane Detection"** [[arxiv]](https://arxiv.org/abs/2308.11106) [[supp]](https://drive.google.com/file/d/1Lz9hWGL12Rm_KHsN3roCkwhh2FvbrREJ/view?usp=sharing)
+Official implementation for **"Recursive Video Lane Detection"** [[arxiv]](https://arxiv.org/abs/2308.11106) [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Jin_Recursive_Video_Lane_Detection_ICCV_2023_paper.html)
 
 <!--
 [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Jin_Harmonious_Semantic_Line_Detection_via_Maximal_Weight_Clique_Selection_CVPR_2021_paper.pdf) [[supp]](http://mcl.korea.ac.kr/~dkjin/cvpr2021/04585-supp.pdf) [[video]](https://www.youtube.com/watch?v=CFQ168_6jw8).
